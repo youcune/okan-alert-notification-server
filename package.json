@@ -1,0 +1,24 @@
+{
+  "name": "okan-alert-notification-server",
+  "version": "1.0.0",
+  "description": "Sends message to OkanAlert client.",
+  "main": "app.js",
+  "dependencies": {
+    "chokidar": "^1.0.3",
+    "ws": "^0.7.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/youcune/okan-alert-notification-server.git"
+  },
+  "author": "@youcune",
+  "license": "PDDL-1.0",
+  "bugs": {
+    "url": "https://github.com/youcune/okan-alert-notification-server/issues"
+  },
+  "homepage": "https://github.com/youcune/okan-alert-notification-server#readme"
+}
